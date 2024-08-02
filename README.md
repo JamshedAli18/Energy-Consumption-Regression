@@ -4,7 +4,7 @@ This project involves performing linear regression to predict energy consumption
 
 ## Files
 
-- `energy_data.csv`: Dataset used for the analysis.
+- `ENB2012.csv`: Dataset used for the analysis.
 - `linear_regression.py`: Python script containing the linear regression model and evaluation.
 
 ## Instructions
